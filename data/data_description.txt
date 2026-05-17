@@ -1,0 +1,11 @@
+Dataset Source:
+https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+
+Dataset Name:
+Australian Weather Dataset
+
+Target Variable:
+RainTomorrow
+
+Description:
+This dataset contains weather observations from various locations in Australia and is used for rainfall prediction using Machine Learning techniques.
